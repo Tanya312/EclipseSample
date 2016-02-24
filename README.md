@@ -1,2 +1,3 @@
 # EclipseSample
-A sample for integrating git with eclipse
+A sample for integrating git with eclipse...
+
